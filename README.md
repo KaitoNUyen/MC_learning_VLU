@@ -12,34 +12,6 @@ Repository này chứa các bài tập thực hành Machine Learning, được t
 |-----|--------|----------|
 | 01 | **Linear Regression** | Hồi quy tuyến tính — phân tích dữ liệu giá nhà, gradient descent, learning rate |
 | 02 | **Logistic Regression** | Hồi quy logistic — phân loại nhị phân, hàm sigmoid, dự đoán qua môn |
+| 03 | **Naive Bayes** | Phân loại Bayes đơn giản — phân loại văn bản, dự đoán spam, xemail
 
-## 🛠️ Công nghệ sử dụng
 
-- **Ngôn ngữ:** Python 3
-- **Thư viện chính:**
-  - `pandas` — xử lý dữ liệu
-  - `numpy` — tính toán ma trận
-  - `matplotlib` — trực quan hóa
-  - `scikit-learn` — mô hình ML
-
-## 🚀 Cách chạy
-
-```bash
-# Clone repo
-git clone https://github.com/KaitoNUyen/MC_learning_VLU.git
-cd MC_learning_VLU
-
-# Cài thư viện
-pip install pandas numpy matplotlib scikit-learn
-
-# Chạy bài tập (ví dụ)
-python "01. Linear_Regression/bai1.py"
-```
-
-## 👤 Tác giả
-
-**KaitoNUyen** — Sinh viên Đại học Văn Lang
-
----
-
-⭐ Nếu thấy hữu ích, hãy star repo nhé!
