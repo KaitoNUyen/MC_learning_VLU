@@ -13,5 +13,4 @@ Repository này chứa các bài tập thực hành Machine Learning, được t
 | 01 | **Linear Regression** | Hồi quy tuyến tính — phân tích dữ liệu giá nhà, gradient descent, learning rate |
 | 02 | **Logistic Regression** | Hồi quy logistic — phân loại nhị phân, hàm sigmoid, dự đoán qua môn |
 | 03 | **Naive Bayes** | Phân loại Bayes đơn giản — phân loại văn bản, dự đoán spam, xemail
-
-
+| 04 | **KNN** | K láng giềng gần nhất — khoảng cách Euclid & Manhattan, chuẩn hoá StandardScaler, chọn k tối ưu, KNN phân loại & hồi quy |
